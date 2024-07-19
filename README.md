@@ -1,3 +1,4 @@
+![](https://count.getloli.com/get/@LufsX)
 #### About me
 - 👋 How time files！Nice to meet you,the world is full of wonders
 - 👨‍🎓 Arknights lover,who is trying everything I like
