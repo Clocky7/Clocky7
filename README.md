@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/b04e320a-3d93-4566-abca-b29cdbd8cb2e" length="500px" width="350px">
-</p>
+<img src="https://github.com/user-attachments/assets/b04e320a-3d93-4566-abca-b29cdbd8cb2e" length="400px" width="300px">
 
 #### About me
 - 👋 How time files！Nice to meet you,the world is full of wonders
