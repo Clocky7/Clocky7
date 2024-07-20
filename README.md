@@ -12,3 +12,5 @@ Every person has his/her own forest,the missing missed,the meeting would meet ag
 
 #### Soliloquize
 Actually,I'm just a greenhorn to code.No previews,no familiarity.It's a wonderful experience,right?The future deserves my longing as before.
+
+<img src="https://github.com/user-attachments/assets/762cb53b-923e-49f9-8fa8-9e8c875c96e9">
