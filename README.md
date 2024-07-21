@@ -8,8 +8,6 @@
 #### Small composition
 &emsp;&emsp;Every person has his/her own forest,the missing missed,the meeting would meet again...
 
-<img src="https://github.com/user-attachments/assets/1265160c-52d0-4432-a3ea-c199b3469627" length="500px" width="400px">
-
 #### Soliloquize
 &emsp;&emsp;Actually,I'm just a greenhorn to code.No previews,no familiarity.It's a wonderful experience,right?
 
